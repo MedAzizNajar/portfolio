@@ -1,0 +1,243 @@
+{
+  "profil": {
+    "nom": "Mohamed Aziz NAJAR",
+    "titre": "M2 Manager en ingénierie informatique",
+    "accroche": "Développement embarqué, systèmes communicants et automatisation.",
+    "description": "Étudiant en M2 Manager en ingénierie informatique, spécialisé en Smart & Green Building à ESIEE-IT. Passionné par le développement embarqué, l'automatisation et les systèmes communicants. Curieux et rigoureux, j'apprécie concevoir des solutions fiables et résoudre des problématiques techniques complexes.",
+    "github": "https://github.com/MedAzizNajar"
+  },
+  "experiences": [
+    {
+      "entreprise": "Enedis",
+      "poste": "Développement d'une plateforme de test automatisée sur Linux embarqué",
+      "periode": "Depuis avril 2026",
+      "lieu": "Nanterre, France",
+      "missions": [
+        "Intégration et pilotage d'une baie de test CPL basée sur Raspberry Pi.",
+        "Développement de drivers et logiciels de contrôle pour cartes relais et équipements de test.",
+        "Conception d'une architecture client/serveur TCP/IP pour le pilotage à distance.",
+        "Développement d'une librairie d'automatisation des campagnes de test.",
+        "Supervision des systèmes et amélioration de la fiabilité des processus."
+      ],
+      "technos": [
+        "Raspberry Pi",
+        "Linux embarqué",
+        "TCP/IP",
+        "CPL",
+        "ST8500",
+        "KMtronic",
+        "Automatisation"
+      ]
+    },
+    {
+      "entreprise": "Kalifteam",
+      "poste": "Développement d'un simulateur de compteur intelligent sécurisé",
+      "periode": "Mars 2025 - Août 2025",
+      "lieu": "France",
+      "missions": [
+        "Conception et développement d'un simulateur de compteur communicant.",
+        "Collecte et analyse de données techniques.",
+        "Intégration des protocoles de communication SPI et I2C.",
+        "Simulation du disjoncteur du compteur.",
+        "Implémentation de mécanismes de chiffrement, de hachage et d'authentification.",
+        "Tests d'intégration et débogage sur cible."
+      ],
+      "technos": [
+        "SPI",
+        "I2C",
+        "SHA-256",
+        "Authentification",
+        "Cybersécurité",
+        "Systèmes embarqués"
+      ]
+    }
+  ],
+  "projets": [
+    {
+      "slug": "assistant-mistral",
+      "titre": "Assistant intelligent d'aide à la décision",
+      "resume": "Développement d'un prototype d'assistant intelligent basé sur Mistral pour l'analyse et l'aide à la décision.",
+      "tags": [
+        "Intelligence artificielle"
+      ],
+      "annee": null,
+      "technos": [
+        "Mistral",
+        "LLM",
+        "IA générative"
+      ]
+    },
+    {
+      "slug": "servo-moteur",
+      "titre": "Pilotage à distance d'un servomoteur",
+      "resume": "Conception d'une interface web permettant de contrôler un servomoteur à distance à l'aide d'un Raspberry Pi.",
+      "tags": [
+        "Systèmes embarqués",
+        "Web"
+      ],
+      "annee": null,
+      "technos": [
+        "Python",
+        "Linux",
+        "Raspberry Pi"
+      ]
+    },
+    {
+      "slug": "jeu-visual-basic",
+      "titre": "Jeu avec interface graphique",
+      "resume": "Développement d'une application interactive avec une interface graphique en Visual Basic.",
+      "tags": [
+        "Développement logiciel"
+      ],
+      "annee": null,
+      "technos": [
+        "Visual Basic",
+        "Interfaces graphiques"
+      ]
+    },
+    {
+      "slug": "portfolio-web",
+      "titre": "Portfolio personnel",
+      "resume": "Création d'un portfolio web moderne et responsive pour présenter mon parcours, mes compétences et mes réalisations. Projet en cours de développement.",
+      "tags": [
+        "Web",
+        "Développement logiciel"
+      ],
+      "annee": 2026,
+      "technos": [
+        "React",
+        "JavaScript",
+        "Vite",
+        "HTML",
+        "CSS",
+        "JSON",
+        "GitHub"
+      ],
+      "lien": "https://github.com/MedAzizNajar/portfolio"
+    }
+  ],
+  "competences": [
+    {
+      "groupe": "Langages de programmation",
+      "items": [
+        { "nom": "Python" },
+        { "nom": "Java" },
+        { "nom": "C" },
+        { "nom": "C++" },
+        { "nom": "Visual Basic" }
+      ]
+    },
+    {
+      "groupe": "Systèmes embarqués",
+      "items": [
+        { "nom": "Raspberry Pi" },
+        { "nom": "Linux embarqué" },
+        { "nom": "Arduino Uno" },
+        { "nom": "ST8500" },
+        { "nom": "KMtronic" }
+      ]
+    },
+    {
+      "groupe": "Réseaux et communications",
+      "items": [
+        { "nom": "TCP/IP" },
+        { "nom": "CPL" },
+        { "nom": "SPI" },
+        { "nom": "I2C" },
+        { "nom": "UART" },
+        { "nom": "COSEM" }
+      ]
+    },
+    {
+      "groupe": "Cybersécurité",
+      "items": [
+        { "nom": "SHA-256" },
+        { "nom": "Chiffrement" },
+        { "nom": "Authentification" },
+        { "nom": "Protection des échanges de données" }
+      ]
+    },
+    {
+      "groupe": "Systèmes électroniques",
+      "items": [
+        { "nom": "Interruptions" },
+        { "nom": "EEPROM" },
+        { "nom": "Affichage LCD" },
+        { "nom": "Relais" },
+        { "nom": "Automatique" }
+      ]
+    },
+    {
+      "groupe": "Outils de développement",
+      "items": [
+        { "nom": "Git" },
+        { "nom": "GitHub" },
+        { "nom": "UML" },
+        { "nom": "Arduino IDE" },
+        { "nom": "VS Code" },
+        { "nom": "Débogage sur cible" }
+      ]
+    },
+    {
+      "groupe": "Développement web - En apprentissage",
+      "items": [
+        { "nom": "HTML" },
+        { "nom": "CSS" },
+        { "nom": "JavaScript" },
+        { "nom": "React.js" },
+        { "nom": "Node.js" },
+        { "nom": "JSON" },
+        { "nom": "Vite" }
+      ]
+    },
+    {
+      "groupe": "Compétences transversales",
+      "items": [
+        { "nom": "Résolution de problèmes" },
+        { "nom": "Travail en autonomie" },
+        { "nom": "Communication" },
+        { "nom": "Rigueur" },
+        { "nom": "Amélioration continue" }
+      ]
+    }
+  ],
+  "formations": [
+    {
+      "diplome": "Manager en ingénierie informatique",
+      "specialite": "Smart & Green Building",
+      "ecole": "ESIEE-IT",
+      "periode": "Depuis septembre 2025",
+      "lieu": "Cergy-Pontoise, France"
+    },
+    {
+      "diplome": "Licence en électronique, électrotechnique et automatisme",
+      "specialite": "Systèmes embarqués, électronique et automatique",
+      "ecole": "Faculté des sciences de Tunis El Manar",
+      "periode": "2022 - Juin 2025",
+      "lieu": "Tunis, Tunisie"
+    },
+    {
+      "diplome": "Baccalauréat en sciences",
+      "specialite": "Sciences",
+      "ecole": "Lycée El Mourouj 4",
+      "periode": "2022",
+      "lieu": "Tunis, Tunisie"
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "Formation en robotique",
+      "organisme": "IMSET Tunis",
+      "periode": "Mars 2021"
+    },
+    {
+      "titre": "Formation en programmation Python",
+      "organisme": "MySchool Tunis",
+      "periode": "2020 - 2021"
+    }
+  ],
+  "langues": [
+    "Français",
+    "Anglais"
+  ]
+}
