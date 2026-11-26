@@ -1,0 +1,82 @@
+{
+  "experiences": [
+    {
+      "entreprise": "Enedis",
+      "poste": "Développement d'une plateforme de test automatisée sur Linux embarqué",
+      "periode": "Depuis avril 2026",
+      "lieu": "Nanterre, France",
+      "missions": [
+        "Intégration et pilotage d'une baie de test CPL basée sur Raspberry Pi.",
+        "Développement de drivers et logiciels de contrôle pour cartes relais et équipements de test.",
+        "Conception d'une architecture client/serveur TCP/IP pour le pilotage à distance.",
+        "Développement d'une librairie d'automatisation des campagnes de test.",
+        "Supervision des systèmes et amélioration de la fiabilité des processus."
+      ],
+      "technos": [
+        "Raspberry Pi",
+        "Linux embarqué",
+        "TCP/IP",
+        "CPL",
+        "ST8500",
+        "KMtronic",
+        "Automatisation"
+      ]
+    },
+    {
+      "entreprise": "Kalifteam",
+      "poste": "Développement d'un simulateur de compteur intelligent sécurisé",
+      "periode": "Mars 2025 - Août 2025",
+      "lieu": "France",
+      "missions": [
+        "Conception et développement d'un simulateur de compteur communicant.",
+        "Collecte et analyse de données techniques.",
+        "Intégration des protocoles SPI et I2C.",
+        "Simulation du disjoncteur du compteur.",
+        "Implémentation de mécanismes de chiffrement, de hachage et d'authentification.",
+        "Tests d'intégration et débogage sur cible."
+      ],
+      "technos": [
+        "SPI",
+        "I2C",
+        "SHA-256",
+        "Authentification",
+        "Cybersécurité"
+      ]
+    }
+  ],
+  "formations": [
+    {
+      "diplome": "Manager en ingénierie informatique",
+      "specialite": "Smart & Green Building",
+      "ecole": "ESIEE-IT",
+      "periode": "Depuis septembre 2025",
+      "lieu": "Cergy-Pontoise, France"
+    },
+    {
+      "diplome": "Licence en électronique, électrotechnique et automatisme",
+      "specialite": "Systèmes embarqués, électronique et automatique",
+      "ecole": "Faculté des sciences de Tunis El Manar",
+      "periode": "2022 - Juin 2025",
+      "lieu": "Tunis, Tunisie"
+    },
+    {
+      "diplome": "Baccalauréat en sciences",
+      "specialite": "Sciences",
+      "ecole": "Lycée El Mourouj 4",
+      "periode": "2022",
+      "lieu": "Tunis, Tunisie"
+    }
+  ],
+  "certifications": [
+    {
+      "titre": "Formation en robotique",
+      "organisme": "IMSET Tunis",
+      "periode": "Mars 2021"
+    },
+    {
+      "titre": "Formation en programmation Python",
+      "organisme": "MySchool Tunis",
+      "periode": "2020 - 2021"
+    }
+  ]
+}

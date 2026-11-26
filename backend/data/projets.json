@@ -1,0 +1,67 @@
+[
+  {
+    "slug": "assistant-mistral",
+    "titre": "Assistant intelligent d'aide à la décision",
+    "resume": "Développement d'un prototype d'assistant intelligent basé sur Mistral.",
+    "tags": ["Intelligence artificielle"],
+    "annee": null,
+    "technos": ["Mistral", "LLM", "IA générative"],
+    "realisations": [
+      "Conception d'un prototype d'assistant intelligent.",
+      "Utilisation de Mistral pour l'analyse et l'aide à la décision."
+    ],
+    "resultat": "Prototype d'assistant intelligent d'aide à la décision."
+  },
+  {
+    "slug": "servo-moteur",
+    "titre": "Pilotage à distance d'un servomoteur",
+    "resume": "Développement d'une interface web de contrôle à distance avec Raspberry Pi.",
+    "tags": ["Systèmes embarqués", "Web", "IoT"],
+    "annee": null,
+    "technos": ["Python", "Linux", "Raspberry Pi"],
+    "realisations": [
+      "Programmation du Raspberry Pi.",
+      "Création d'une interface web de contrôle.",
+      "Pilotage à distance du servomoteur."
+    ],
+    "resultat": "Interface web permettant de commander un servomoteur à distance."
+  },
+  {
+    "slug": "jeu-visual-basic",
+    "titre": "Jeu avec interface graphique",
+    "resume": "Développement d'une application interactive en Visual Basic.",
+    "tags": ["Développement logiciel"],
+    "annee": null,
+    "technos": ["Visual Basic", "Interfaces graphiques"],
+    "realisations": [
+      "Développement d'une application interactive.",
+      "Création d'une interface graphique."
+    ],
+    "resultat": "Jeu avec interface graphique."
+  },
+  {
+    "slug": "portfolio-web",
+    "titre": "Portfolio personnel Full-Stack",
+    "resume": "Développement d'un portfolio web pour présenter mon parcours et mes compétences.",
+    "tags": ["Web", "Développement logiciel"],
+    "annee": 2026,
+    "technos": [
+      "React",
+      "Node.js",
+      "Express",
+      "JavaScript",
+      "HTML",
+      "CSS",
+      "JSON",
+      "GitHub"
+    ],
+    "realisations": [
+      "Création du repository GitHub.",
+      "Développement du frontend React avec Vite.",
+      "Conception d'une interface responsive beige et dorée.",
+      "Développement d'une API REST avec Express en cours."
+    ],
+    "resultat": "Frontend fonctionnel et backend en cours de développement.",
+    "lien": "https://github.com/MedAzizNajar/portfolio"
+  }
+]
