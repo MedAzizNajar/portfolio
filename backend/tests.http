@@ -1,0 +1,29 @@
+### Test du serveur
+GET http://localhost:3000/
+
+### Recuperer le profil
+GET http://localhost:3000/api/profil
+
+### Recuperer tous les projets
+GET http://localhost:3000/api/projets
+
+### Filtrer les projets par Web
+GET http://localhost:3000/api/projets?tag=Web
+
+### Filtrer les projets par IoT
+GET http://localhost:3000/api/projets?tag=IoT
+
+### Recuperer un projet precis
+GET http://localhost:3000/api/projets/servo-moteur
+
+### Tester un projet inexistant (404)
+GET http://localhost:3000/api/projets/inconnu
+
+### Recuperer les competences
+GET http://localhost:3000/api/competences
+
+### Recuperer le parcours
+GET http://localhost:3000/api/parcours
+
+### Tester une route inconnue (404)
+GET http://localhost:3000/api/inconnu
